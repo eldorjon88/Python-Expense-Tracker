@@ -19,3 +19,5 @@ def filter_by_category(expenses, search_category):
 
 def format_expense(row):
     pass
+
+
